@@ -8,3 +8,5 @@ def slice_list():
 	middle_third = to_21[7:14:]
 	print odds
 	print middle_third
+	
+print even_square()
